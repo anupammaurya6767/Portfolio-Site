@@ -346,7 +346,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 @media screen and (max-width:1200px) {
   .txt-rotater h1{
-    height: 18rem;
+    height: 22rem;
     overflow-y: hidden;
     overflow-x: hidden;
   }
