@@ -25,8 +25,8 @@ const NavBar = () =>
                         <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
                             <LinkContainer to="/"><Nav.Item className='active navbar-link navbar-link my-2 mx-2'><strong>Home</strong></Nav.Item></LinkContainer>
-                            {/* <LinkContainer to="/skills"><Nav.Item className='active navbar-link navbar-link my-2 mx-2'><strong>Skills</strong></Nav.Item></LinkContainer>
-                            <Nav.Item className='active navbar-link navbar-link my-2 mx-2 '><strong>Projects</strong></Nav.Item> */}
+                             <LinkContainer to="/contact"><Nav.Item className='active navbar-link navbar-link my-2 mx-2'><strong>Connect</strong></Nav.Item></LinkContainer>
+                            {/*<Nav.Item className='active navbar-link navbar-link my-2 mx-2 '><strong>Projects</strong></Nav.Item> */}
                         </Nav>
                         <span className="nav-text">
                            <div className="social-icon">
