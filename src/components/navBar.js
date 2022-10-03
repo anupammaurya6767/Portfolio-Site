@@ -31,7 +31,7 @@ const NavBar = () =>
                         <span className="nav-text">
                            <div className="social-icon">
                              <a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225/"><img src={navIcon1} alt=""/> </a>
-                             <a href="https://www.instagram.com/noob_koda/"><img src={navIcon3} alt=""/> </a>
+                             <a href="https://www.instagram.com/maurya_anupam_03/"><img src={navIcon3} alt=""/> </a>
                            </div>
                         </span>
                         </Navbar.Collapse>
